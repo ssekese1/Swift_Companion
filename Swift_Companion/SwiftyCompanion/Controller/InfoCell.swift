@@ -3,8 +3,8 @@
 //  ViewController.swift
 //  Swift_Companion
 //
-//  Created by Lehlohonolo MASHIYANE on 2018/10/23.
-//  Copyright © 2018 Lehlohonolo MASHIYANE. All rights reserved.
+//  Created by Senaki SEKESE on 2018/10/23.
+//  Copyright © 2018 Senaki SEKESE. All rights reserved.
 //
 
 import Foundation
